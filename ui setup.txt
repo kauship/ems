@@ -1,0 +1,5 @@
+pnpx create-next-app@latest venuex --typescript
+
+pnpm add @mui/material @emotion/react @emotion/styled
+pnpm add @mui/icons-material
+pnpm dev
